@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="pict_login">PictLogin</string>
+    <string name="login_title">Hello, let\'s sign in</string>
+    <string name="login_message">Please login! You will see a list and details of the sport. If you want, you can choose which sport you like. Enjoy! ✍️</string>
+    <string name="email">Email</string>
+    <string name="invalid_email">Format email is invalid!</string>
+    <string name="password">Password</string>
+    <string name="min_length_char">Minimal Length %1$d characters</string>
+    <string name="login">Login</string>
+
+    <string name="avatar">avatar</string>
+    <string name="username">username</string>
+    <string name="created_at">Created At</string>
+    <string name="format">Format</string>
+    <string name="title_description">Description</string>
+    <string name="description">This is a description</string>
+</resources>
